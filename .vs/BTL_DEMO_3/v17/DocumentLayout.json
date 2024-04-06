@@ -1,0 +1,835 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\caidat\\thongtintkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\caidat\\thongtintkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\caidat\\xacnhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\caidat\\xacnhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\crystal\\loadreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\crystal\\loadreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\chitietnhaphangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\chitietnhaphangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\nhapsanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\nhapsanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\taodonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\taodonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\taodonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\taodonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\khachhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\khachhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\khachhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\khachhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\nhacungcapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\nhacungcapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\nhacungcapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\nhacungcapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\sanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\sanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\sanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\sanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\taikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\taikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\quanly\\taikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\quanly\\taikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|c:\\users\\84387\\source\\repos\\btl_demo_3\\btl_demo_3\\gui\\thongke\\thongkedonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\thongke\\thongkedonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\thongke\\thongkedonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\thongke\\thongkedonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\donhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\donhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\chitietnhaphangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\chitietnhaphangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\caidat\\thongtintkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\caidat\\thongtintkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\caidat\\doimatkhauform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\caidat\\doimatkhauform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\nhapsanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\nhapsanphamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\nhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\nhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\nhaplieu\\chitietnhaphangform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\nhaplieu\\chitietnhaphangform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\taikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\taikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\crystal\\loadreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\crystal\\loadreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\code\\isendtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\code\\isendtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\caidat\\doimatkhauform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\gui\\caidat\\doimatkhauform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\chitietdonhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\chitietdonhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49351ED-A980-42A0-8726-9011999ECF81}|BTL_DEMO_3\\BTL_DEMO_3.csproj|solutionrelative:btl_demo_3\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\btl_demo_3\\gui\\code\\senddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:btl_demo_3\\gui\\code\\senddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SanPhamForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAIA9wH4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:41:35.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhaCungCapForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAIA7wNsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:47:54.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NhapSanPhamForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:12:59.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongTinTKForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:36:10.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Code\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Code\\Program.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Code\\Program.cs*",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Code\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:28:41.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XacNhanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\XacNhanForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\CaiDat\\XacNhanForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\XacNhanForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\CaiDat\\XacNhanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:02:15.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:24:56.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietNhaphangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:26:06.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhapSanPhamForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\NhapSanPhamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:21:54.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaoDonHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs",
+              "ViewState": "AQIAAIEBAAAAAAAAAAAAAIYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:02:43.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\HomeForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\HomeForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:21:41.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaoDonHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\TaoDonHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:22:10.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAqwDUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:45:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhachHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\KhachHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:21:57.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhaCungCapForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\NhaCungCapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:22:12.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVienForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs",
+              "ViewState": "AQIAAIMBAAAAAAAAAAAAAJUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:38:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SanPhamForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\SanPhamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:23:10.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NhanVienForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\NhanVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:26:06.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaiKhoanForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAhwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:11:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaiKhoanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\QuanLy\\TaiKhoanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:16:11.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThongKeDonHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs*",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs*",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T03:39:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThongKeDonHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs [Design]*",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Thongke\\ThongKeDonHangForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:11:27.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DonHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\DonHangDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\DonHangDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\DonHangDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\DonHangDAO.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwGkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:13:12.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAIAwwE8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:10:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChiTietNhaphangForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvyAAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:13:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\MenuForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\MenuForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:35:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\MenuForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\MenuForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\MenuForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:42:16.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\LoginForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\LoginForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:39:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:08:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThongTinTKForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\CaiDat\\ThongTinTKForm.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:47:59.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoiMatKhauForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs [Design]",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:36:34.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NhapHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\NhapHangDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\NhapHangDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\NhapHangDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\NhapHangDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:14:08.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChiTietNhaphangForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.Designer.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.Designer.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\NhapLieu\\ChiTietNhaphangForm.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAvwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:00:56.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TaiKhoanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\TaiKhoanDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\TaiKhoanDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\TaiKhoanDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\TaiKhoanDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:39:12.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoadReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Crystal\\LoadReportForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:26:57.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISendTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Code\\ISendTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Code\\ISendTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Code\\ISendTaiKhoan.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Code\\ISendTaiKhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:11:46.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoiMatKhauForm.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\CaiDat\\DoiMatKhauForm.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:02:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\KhachHangDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\KhachHangDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:13:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SanPhamDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\SanPhamDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\SanPhamDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\SanPhamDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\SanPhamDAO.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:14:50.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChiTietDonHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\ChiTietDonHangDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\ChiTietDonHangDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\ChiTietDonHangDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\ChiTietDonHangDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:12:59.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\ChiTietDonHang.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:17:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\SanPham.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\SanPham.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\SanPham.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\SanPham.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:19:20.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NhaCungCapDAO.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\NhaCungCapDAO.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DAO\\NhaCungCapDAO.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DAO\\NhaCungCapDAO.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DAO\\NhaCungCapDAO.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwFEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:52:37.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\DonHang.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\DonHang.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\DonHang.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:18:07.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\KhachHang.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\KhachHang.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:18:19.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\NhaCungCap.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\NhaCungCap.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\NhaCungCap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:18:37.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\NhanVien.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\NhanVien.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:18:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\NhapHang.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\NhapHang.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\NhapHang.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\NhapHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:19:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\DTO\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\DTO\\TaiKhoan.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\DTO\\TaiKhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:12:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SendData.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Code\\SendData.cs",
+              "RelativeDocumentMoniker": "BTL_DEMO_3\\GUI\\Code\\SendData.cs",
+              "ToolTip": "C:\\Users\\84387\\source\\repos\\BTL_DEMO_3\\BTL_DEMO_3\\GUI\\Code\\SendData.cs",
+              "RelativeToolTip": "BTL_DEMO_3\\GUI\\Code\\SendData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:24:53.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
